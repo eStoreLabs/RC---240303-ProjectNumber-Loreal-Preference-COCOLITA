@@ -269,7 +269,7 @@ body {
 #es-loreal.es-loreal .es-benefits {
   margin-bottom: 64px;
   padding: 64px 16px 64px 16px;
-  background: url("../images/bg-gold.png") no-repeat top center;
+  background: url("./images/bg-gold.png") no-repeat top center;
   background-size: cover;
 }
 #es-loreal.es-loreal .es-benefits__wrapper {
@@ -302,7 +302,7 @@ body {
   margin-bottom: 20px;
 }
 #es-loreal.es-loreal .es-benefits__item::before {
-  content: url("../images/dot.png");
+  content: url("./images/dot.png");
   position: absolute;
   top: 50%;
   left: -64px;
@@ -310,7 +310,7 @@ body {
   transition: all 0.3s;
 }
 #es-loreal.es-loreal .es-benefits__item:hover::before {
-  content: url("../images/dot.png");
+  content: url("./images/dot.png");
   position: absolute;
   top: 50%;
   left: -72px;
@@ -336,7 +336,7 @@ body {
   text-align: center;
 }
 #es-loreal.es-loreal .es-slider__wrapper {
-  background: url("../images/bg-gold.png") no-repeat top left;
+  background: url("./images/bg-gold.png") no-repeat top left;
   background-size: cover;
   padding: 56px 16px 56px 16px;
 }
